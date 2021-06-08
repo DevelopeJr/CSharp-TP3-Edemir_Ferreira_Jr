@@ -1,0 +1,9 @@
+C:\Users\Developer\Desktop\TP3-Julio\Market-Clients\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Developer\Desktop\TP3-Julio\Market-Clients\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Developer\Desktop\TP3-Julio\Market-Clients\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Developer\Desktop\TP3-Julio\Market-Clients\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\Developer\Desktop\TP3-Julio\Market-Clients\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Developer\Desktop\TP3-Julio\Market-Clients\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Developer\Desktop\TP3-Julio\Market-Clients\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Desktop\TP3-Julio\Market-Clients\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Developer\Desktop\TP3-Julio\Market-Clients\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
